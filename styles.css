@@ -487,11 +487,7 @@ footer a:hover{
 	}
 
 		/*Header-section*/
-	.header-section{
-	background-image: url("images/bg-tablet-pattern-2-mobile.svg");
-	background-position: -3% 500%;
-	background-repeat: no-repeat;
-	}
+	
 	.header-col-1{
 		padding: 50px 0 0;
 	}
